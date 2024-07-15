@@ -22,7 +22,7 @@
 // 3. Berilgan sonning faktorialini toping.
 // let a = +prompt('son kiritinng');
 // let result = 1;
-// for (let i = 1; i <= a ; i++ ){
+// for (let i = 2; i <= a ; i++ ){
 // result = result*i 
 // }
 // console.log(result);
@@ -115,3 +115,46 @@
 // console.log(result);
 // console.log(qoldiq);
 
+// 6-masala
+// let a = +prompt('ikki xonali son kiritin');
+// let birlik = a % 10;
+// let onlik = parseInt(a / 10);
+// console.log(onlik);
+// console.log(birlik);
+
+// 7-masala
+// let a = +prompt('ikki xonali son kiritin');
+// let birlik = a % 10;
+// let onlik = parseInt(a / 10);
+// let result = birlik + onlik ;
+// console.log(result);
+
+// 8-masala
+// let a = +prompt('ikki xonali son kiritin');
+// let birlik = a % 10;
+// let onlik = parseInt(a / 10);
+// console.log(birlik,onlik);
+
+// 9-masala
+// let a = +prompt('3xonali son kirit');
+// let res = parseInt(a/100);
+// console.log(res);
+
+// 10-masala
+// let a = +prompt("3 xonali son kirit");
+// let birlik = a % 10;
+// let yuzon = parseInt(a/10);
+// let onlik = yuzon%10;
+// console.log(birlik);
+// console.log(onlik);
+
+// 11-masala
+// let a = +prompt("3 xonali son kirit");
+// let birlik = a % 10;
+// let yuzon = parseInt(a/10);
+// let onlik = yuzon%10;
+// let yuzlik = parseInt(yuzon / 10);
+// let result = birlik + onlik + yuzlik;
+// console.log(result);
+
+// 12-masala
