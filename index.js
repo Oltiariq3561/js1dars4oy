@@ -82,3 +82,36 @@
 // let res = Math.pow(a*b*c,1/3);
 // let butun = Math.round(res)
 // console.log(butun);
+
+// QOSHIMCHA 
+
+
+// 1-masala
+// let a = +prompt('sm yozing');
+// let result = parseInt(a/100);
+// console.log(result);
+
+// 2-masala
+// let a = +prompt('kg yozing');
+// let result = parseInt(a/1000);
+// console.log(result);
+
+// 3-masala
+// let a = +prompt('bayt kiriting');
+// let result = parseInt(a / 1024);
+// console.log(result);
+
+// 4-masala
+// let a = +prompt('a kesma');
+// let b = +prompt('b kesma');
+// let result = parseInt(a / b);
+// console.log(result);
+
+// 5-masala
+// let a = +prompt('a kesma');
+// let b = +prompt('b kesma');
+// let result = parseInt(a / b);
+// let qoldiq = a % b;
+// console.log(result);
+// console.log(qoldiq);
+
